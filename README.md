@@ -7,4 +7,3 @@
  ## MAIS
 J'ai une erreur :
 J'ai beau mettre les musiques "viva-la-vida" et "paradise" comme demandé mais j'ai un message d'erreur , dans la console j'ai bien le lien ammenant sur l'API mais le message d'erreur ne devient pas les paroles
-  
