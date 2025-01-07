@@ -3,4 +3,4 @@
 - La redirection est bloqué et est neccessairement obligé de renseigner ET le nom de la musique ET l'artiste
 - Un message d'erreur s'affiche quand il y a une erreur dans la recherche de musique
 - Le bouton , le message sont incochable et disparu lors de la recherche au profit du message/parole
-- Les paroles s'affiche bien
+- Les paroles s'affichent bien
